@@ -13,11 +13,11 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "吴天傲"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "厦门理工学院"
     # Schema.org type for structured data
-    type: person                        # person | organization | local_business
+    type: 博士|副教授|硕导                        # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
